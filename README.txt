@@ -27,7 +27,8 @@ O projeto apresenta uma proposta fictícia de divulgação de um encontro de fot
 
 ## Fotografias
 
-Todas as fotografias utilizadas no projeto são autorais de Adriana.
+A galeria apresenta 6 fotografias autorais de Adriana. 
+O projeto utiliza também 2 imagens do Unsplash em outras seções da página.
 
 ## Desenvolvimento
 
